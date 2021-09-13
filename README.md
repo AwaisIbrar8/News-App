@@ -11,7 +11,3 @@ Search news based on keyword.
 
 ### Category News
 Show based on selected category.
-
-
-## Demo App
-[![Demo App](https://img.youtube.com/vi/zkpyIhED1I0/0.jpg)](https://www.youtube.com/watch?v=zkpyIhED1I0)
